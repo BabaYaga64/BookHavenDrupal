@@ -23,11 +23,15 @@ db name: bookhaven
 username: bookworm
 password: peachpie
 
+site maintenance acct info:
+username: bookworm
+password: peachpie
+
 Reviwer role info:
 username: Reviewer
 password: best
 
-Site maintenance account info is same as above.
+
 
 ###License
 
