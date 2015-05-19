@@ -1,0 +1,3 @@
+[submodule "GreetingFeatureDrupal"]
+	path = GreetingFeatureDrupal
+	url = https://github.com/BabaYaga64/GreetingFeatureDrupal.git
