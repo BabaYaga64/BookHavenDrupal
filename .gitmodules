@@ -1,3 +1,6 @@
 [submodule "GreetingFeatureDrupal"]
 	path = GreetingFeatureDrupal
 	url = https://github.com/BabaYaga64/GreetingFeatureDrupal.git
+[submodule "sites/all/modules/greeting"]
+	path = sites/all/modules/greeting
+	url = https://github.com/BabaYaga64/GreetingFeatureDrupal.git
