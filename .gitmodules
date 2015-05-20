@@ -10,3 +10,6 @@
 [submodule "sites/all/modules/comment"]
 	path = sites/all/modules/comment
 	url = https://github.com/BabaYaga64/CommentBuddyHook.git
+[submodule "sites/all/modules/sum"]
+	path = sites/all/modules/sum
+	url = https://github.com/BabaYaga64/SumFormDrupal.git
