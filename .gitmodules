@@ -7,3 +7,6 @@
 [submodule "sites/all/modules/newaccount"]
 	path = sites/all/modules/newaccount
 	url = https://github.com/BabaYaga64/New_User_Submodule.git
+[submodule "sites/all/modules/comment"]
+	path = sites/all/modules/comment
+	url = https://github.com/BabaYaga64/CommentBuddyHook.git
